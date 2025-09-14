@@ -66,4 +66,4 @@ o	Process and Evaluate: Combine processing and evaluation in a single step.
 
 •	Confusion matrix generated using Seaborn for classification tasks.
 •	Results displayed in tables and interactive dashboards.
-<img width="468" height="641" alt="image" src="https://github.com/user-attachments/assets/e9b1af18-27d1-4bfc-af3a-1abd9a4f1144" />
+
