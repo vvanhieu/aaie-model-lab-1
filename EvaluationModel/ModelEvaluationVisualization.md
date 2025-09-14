@@ -67,3 +67,5 @@ o	Process and Evaluate: Combine processing and evaluation in a single step.
 •	Confusion matrix generated using Seaborn for classification tasks.
 •	Results displayed in tables and interactive dashboards.
 
+**Streamlit Output::**
+<img src="streamlit_output.png" alt="Model Visualization Using Streamlit" width="600"><br>
