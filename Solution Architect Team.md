@@ -32,7 +32,7 @@
 
 1. Create data/model flow diagram for AI-generated content detection:
 
-   ![](Aspose.Words.5b95da11-6050-45ab-a3ae-63a548b95104.001.png)
+   ![](Aspose.Words.774edbb2-3f18-4dc4-b2da-c145c0a1bb0b.001.png)
 
 - **Data Flow:**
 - Input: string/JSON → Output: JSON
@@ -54,7 +54,7 @@
 
 1. Design flow diagram for rubric-aligned feedback generation:
 
-   ![](Aspose.Words.5b95da11-6050-45ab-a3ae-63a548b95104.002.png)
+   ![](Aspose.Words.774edbb2-3f18-4dc4-b2da-c145c0a1bb0b.002.png)
 
 - **Data Flow:**
 - Input: string/JSON → Output: JSON
@@ -72,7 +72,7 @@
 
 1. Draw system-level architecture (block diagram): UMAR KHAYAM
 
-![](Aspose.Words.5b95da11-6050-45ab-a3ae-63a548b95104.003.png)
+![](Aspose.Words.774edbb2-3f18-4dc4-b2da-c145c0a1bb0b.003.png)
 
 - In Database, it will contain:
 - Vector DB: Embeddings
